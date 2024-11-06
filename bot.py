@@ -1,13 +1,7 @@
-import os
-from dotenv import load_dotenv
 import telegram
 from telegram.ext import Updater, CommandHandler, MessageHandler, Filters
 
-load_dotenv()
-
-bot_token = os.getenv('7940292414:AAFfxLFp5QTTv7PWVF40KT4NF9ZMYWXTn0g')
-
-bot = telegram.Bot(token=7940292414:AAFfxLFp5QTTv7PWVF40KT4NF9ZMYWXTn0g)
+bot = telegram.bot('7940292414:AAFfxLFp5QTTv7PWVF40KT4NF9ZMYWXTn0g')
 
 
 def start(update, context):
