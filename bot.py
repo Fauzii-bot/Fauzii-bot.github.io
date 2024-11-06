@@ -7,7 +7,7 @@ load_dotenv()
 
 bot_token = os.getenv('7940292414:AAFfxLFp5QTTv7PWVF40KT4NF9ZMYWXTn0g')
 
-bot = telegram.Bot(token=bot_token)
+bot = telegram.Bot(token=7940292414:AAFfxLFp5QTTv7PWVF40KT4NF9ZMYWXTn0g)
 
 
 def start(update, context):
