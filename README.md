@@ -1,3 +1,3 @@
-# @@allareamutualantelegram
+# @allareamutualantelegram
 <br/>
 t.me/allareamutualantelegram
