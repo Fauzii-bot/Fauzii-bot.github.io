@@ -1,6 +1,3 @@
-# telegram-bot-python-chatgpt
+# @@allareamutualantelegram
 <br/>
-video tutorial lengkap:
-
-<br/>
-education purpose only.
+t.me/allareamutualantelegram
